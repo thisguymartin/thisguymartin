@@ -7,8 +7,15 @@ I am a developer who loves to build and experiment with new technologies and alw
 
 - 💬  I am currently learning Go and .NET and getting more into the Microsoft just to be more badass. 
 
+- My goal is to be a jedi/witcher engineer that can kick ass.
+
+![witcher_jedi](https://media.giphy.com/media/TgDD0UXj7t023a6c9U/giphy.gif)
+
+
 I work at @SIBIPRO as a Software Engineer.  Learn more about my work here and follow me on twitter [@thisguymartin][2] and or LinkedIn _[here][1]_ or martinpatino.com.
 
 
 [1]: https://www.linkedin.com/in/martin-patino-60b2b798//
 [2]: https://twitter.com/thisguymartin
+
+
