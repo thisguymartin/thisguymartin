@@ -9,9 +9,6 @@ I am a developer who loves to build and experiment with new technologies and alw
 
 - My goal is to be a jedi/witcher engineer that can kick ass.
 
-![witcher_jedi](https://media.giphy.com/media/TgDD0UXj7t023a6c9U/giphy.gif)
-
-
 I work at @SIBIPRO as a Software Engineer.  Learn more about my work here and follow me on twitter [@thisguymartin][2] and or LinkedIn _[here][1]_ or martinpatino.com.
 
 
