@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋🏻 👾, I'm Martin Patino 🇲🇽</h1>
-<h3 align="center">Just a latin dude with some coding knowledge and passionate about learning new tech</h3>
+<h3 align="center">Just a mexican dude with some coding knowledge and passionate about learning new tech</h3>
 
 
 - 🔭 I’m currently working on [Personal projects on exposing scams](In Progress)
@@ -27,9 +27,6 @@
 
 - ⚡ Fun fact **I love breakfast food. I am investing in building chicken coup at my house for eggs and home grown chicken protien.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
