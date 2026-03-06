@@ -4,7 +4,6 @@ Software engineer from Phoenix, AZ. I used to work in social services — turns 
 
 I build CLI tools and developer infrastructure. I write about what I learn. I mentor when I can.
 
----
 
 ### Things I've shipped for fun or helpful
 
@@ -18,28 +17,6 @@ I build CLI tools and developer infrastructure. I write about what I learn. I me
 
 🕸️ **[Mycelium](https://github.com/thisguymartin/Mycelium)** — Real-time coordination for disaster response teams. WebRTC + CRDTs. TypeScript.
 
-
----
-
-### Cooking
-
-These are real, they run, they're just not done yet.
-
-📓 **[zettl](https://github.com/thisguymartin/zettl)** — Terminal note-taking. Bubble Tea TUI + SQLite. Go.
-
-🫏 **[burro](https://github.com/thisguymartin/burro)** — CLI for evaluating LLM outputs. Deno / TypeScript.
-
-🐳 **[self-hosted-dev-platform](https://github.com/thisguymartin/self-hosted-dev-platform)** — Portainer + Docker stack for local infra. Because the cloud is just someone else's bill.
-
----
-
-### Writing
-
-I write about things I've actually figured out, not things I've heard about.
-
-- [Dev Tools To Get Started On macOS](https://dev.to/thisguymartin/dev-tools-to-get-started-on-macos-2bbf)
-- [Architect an Easy Way to Jump Into Serverless](https://dev.to/thisguymartin/architect-a-easy-way-to-jump-into-the-serverless-world-285h)
-- [Adapting to Change in Software Development](https://dev.to/thisguymartin/adapting-to-change-navigating-the-evolving-landscape-of-software-development-2798)
 
 More on [martinpatino.com](https://martinpatino.com) · [DEV.to](https://dev.to/thisguymartin) · [Medium](https://medium.com/@thisguymartin)
 
