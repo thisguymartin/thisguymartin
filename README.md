@@ -1,8 +1,10 @@
 ## Hi, I'm Martin 👋
 
-Software engineer from Phoenix, AZ. I used to work in social services turns out systems that fail people bother me whether they're government programs or broken APIs.
+Senior software engineer from Phoenix, AZ. I used to work in social services — turns out systems that fail people bother me whether they're government programs or broken APIs.
 
-I build CLI tools, developer infrastructure, and AI tooling always learning, always shipping something. Plenty more side projects on the way. I write about what I learn. I mentor when I can.
+I build CLI tools, serverless infrastructure, and AI tooling. Always learning, always shipping something, plenty more on the way. I write about what I figure out. I mentor when I can.
+
+Currently building an automated email AI processing platform. Exploring MCP servers and AI agent architectures. Reading Berserk. 
 
 #### Things I've shipped for fun or helpful
 
