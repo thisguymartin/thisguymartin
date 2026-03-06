@@ -5,7 +5,7 @@ Software engineer from Phoenix, AZ. I used to work in social services — turns 
 I build CLI tools and developer infrastructure. I write about what I learn. I mentor when I can.
 
 
-### Things I've shipped for fun or helpful
+#### Things I've shipped for fun or helpful
 
 🪄 **[mochi](https://github.com/thisguymartin/mochi)** — Run LLM tasks in parallel across git worktrees. File input, optional PRs. Go.
 
