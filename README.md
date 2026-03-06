@@ -1,8 +1,7 @@
 ## Hi, I'm Martin 👋
 
 Software engineer from Phoenix, AZ. I used to work in social services — turns out systems that fail people bother me whether they're government programs or broken APIs.
-
-I build CLI tools and developer infrastructure. I write about what I learn. I mentor when I can.
+I build CLI tools, developer infrastructure, and AI tooling — always learning, always shipping something. Plenty more side projects on the way. I write about what I learn. I mentor when I can.
 
 
 #### Things I've shipped for fun or helpful
